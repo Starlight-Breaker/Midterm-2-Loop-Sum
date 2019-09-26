@@ -1,0 +1,15 @@
+C:\Users\COMLABPC6\source\repos\Wesley.Midterm2\bin\Debug\Wesley.Midterm2.exe.config
+C:\Users\COMLABPC6\source\repos\Wesley.Midterm2\bin\Debug\Wesley.Midterm2.exe
+C:\Users\COMLABPC6\source\repos\Wesley.Midterm2\bin\Debug\Wesley.Midterm2.pdb
+C:\Users\COMLABPC6\source\repos\Wesley.Midterm2\obj\Debug\Wesley.Midterm2.csprojAssemblyReference.cache
+C:\Users\COMLABPC6\source\repos\Wesley.Midterm2\obj\Debug\MainWindow.g.cs
+C:\Users\COMLABPC6\source\repos\Wesley.Midterm2\obj\Debug\App.g.cs
+C:\Users\COMLABPC6\source\repos\Wesley.Midterm2\obj\Debug\Wesley.Midterm2_MarkupCompile.cache
+C:\Users\COMLABPC6\source\repos\Wesley.Midterm2\obj\Debug\Wesley.Midterm2_MarkupCompile.lref
+C:\Users\COMLABPC6\source\repos\Wesley.Midterm2\obj\Debug\MainWindow.baml
+C:\Users\COMLABPC6\source\repos\Wesley.Midterm2\obj\Debug\Wesley.Midterm2.g.resources
+C:\Users\COMLABPC6\source\repos\Wesley.Midterm2\obj\Debug\Wesley.Midterm2.Properties.Resources.resources
+C:\Users\COMLABPC6\source\repos\Wesley.Midterm2\obj\Debug\Wesley.Midterm2.csproj.GenerateResource.cache
+C:\Users\COMLABPC6\source\repos\Wesley.Midterm2\obj\Debug\Wesley.Midterm2.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC6\source\repos\Wesley.Midterm2\obj\Debug\Wesley.Midterm2.exe
+C:\Users\COMLABPC6\source\repos\Wesley.Midterm2\obj\Debug\Wesley.Midterm2.pdb
